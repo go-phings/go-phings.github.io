@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Home to a collection of open-source libraries written in Go, created to simplify
   and enhance application development.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://go-phings.forthcoming.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://phings.gopkg.pl" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  go-phings
 author: Mikolaj Gasior
 author_github: mikogs
